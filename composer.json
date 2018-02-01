@@ -1,0 +1,14 @@
+{
+    "name": "ekch123/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ekch123",
+            "email": "843323210@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
